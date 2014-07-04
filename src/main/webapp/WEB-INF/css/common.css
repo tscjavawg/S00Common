@@ -1,0 +1,36 @@
+*{
+	padding: 0px;
+	margin: 3px;
+}
+
+header{
+	display: block;
+	width: 100%; 
+	vertical-align: middle;
+	background-color: #ff9933;
+}
+footer{
+	text-align: right;
+	background-color: #ffead5;
+	width: 100%; 
+	clear: both;
+}
+
+nav {
+	float:left;
+	width:150px;
+}
+nav li{
+	list-style-type : none;
+
+}
+
+nav ul{
+	padding-left: 5px;
+	margin: 5px
+}
+article {
+	float:left;
+	width:600px;
+}
+
